@@ -33,7 +33,32 @@ export const clips: Clip[] = [
         name: 'REDEEM CAT',
         slug: 'redeem-cat',
         clipId: 'ClearGeniusTrollPanicBasket-2MEDoTnDFKp2G6vY',
-    }
+    },
+    {
+        name: 'CELEBRATE ME',
+        slug: 'celebrate-me',
+        clipId: 'PolishedPluckyTubersKappa-2-5QayTxoAfFFCOM',
+    },
+    {
+        name: 'SO NERDY, NOT COOL AT ALL',
+        slug: 'so-nerdy',
+        clipId: 'DistinctFuriousPeafowlImGlitch-juqCW6O4Gwk_6HiC',
+    },
+    {
+        name: 'ABSOLUTELYYY',
+        slug: 'absolutelyyy',
+        clipId: 'SeductiveWildDogTBCheesePull-PN8HyeVgcW1WgceH',
+    },
+    {
+        name: 'DAB FOR RUST',
+        slug: 'dab-for-rust',
+        clipId: 'SavoryDeterminedKittenBloodTrail-6bzyvQVxbm5IXAuL',
+    },
+    {
+        name: 'DAB FOR RUST',
+        slug: 'dab-for-rust',
+        clipId: 'SavoryDeterminedKittenBloodTrail-6bzyvQVxbm5IXAuL',
+    },
 ];
 
 export function generateClipUrl(clip: Clip) {
